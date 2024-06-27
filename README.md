@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Изображение](https://nztcdn.com/files/3c2a5e20-d4b1-485f-a50d-9e39dd40fecc.webp)
 
 <!--
 **lexek-main/lexek-main** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
